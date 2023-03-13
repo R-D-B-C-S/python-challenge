@@ -1,0 +1,5 @@
+Total Votes 369712
+Charles Vote Count 0.23048480979789673 85213
+Diana Vote Count 0.7381204829705285 272892
+Raymon Vote Count 0.03139200242350803 11606
+Winner Diana DeGette
